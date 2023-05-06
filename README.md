@@ -3,9 +3,9 @@ Requirements
 - Java (and Swing)
 
 run:
-`
-javac leniamain.java
 
+```
+javac leniamain.java
 java  leniamain
-`
+```
 ![](img.png)
